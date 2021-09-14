@@ -1,0 +1,101 @@
+movie_id,movies,rank,movie_rating,rated,year,actors,genre,director,gross
+tt1213644,      Disaster Movie,1,2.0,PG-13,2008,"Carmen Electra, Vanessa Lachey, Nicole Parker","Comedy, Sci-Fi","Jason Friedberg, Aaron Seltzer","$14,190,901"
+tt0270846,      Superbabies: Baby Geniuses 2,2,2.1,PG,2004,"Jon Voight, Scott Baio, Vanessa Angel","Comedy, Family, Sci-Fi",Bob Clark,"$9,219,388"
+tt0060666,      Manos: The Hands of Fate,3,2.1,Not Rated,1966,"Tom Neyman, John Reynolds, Diane Adelson","Drama, Horror",Harold P. Warren,N/A
+tt4458206,      Code Name: K.O.Z.,4,2.1,Not Rated,2015,"Cem Kurtoglu, Hakan Ural, Hazim Körmükcü","Crime, Mystery",Celal Çimen,N/A
+tt4009460,      Kirk Cameron's Saving Christmas,5,2.1,PG,2014,"Kirk Cameron, Darren Doane, Bridgette Cameron","Comedy, Family",Darren Doane,"$2,783,970"
+tt1316037,      Birdemic: Shock and Terror,6,2.1,Not Rated,2010,"Alan Bagh, Whitney Moore, Tippi Hedren","Horror, Thriller",James Nguyen,N/A
+tt0804492,      The Hottie & the Nottie,7,2.2,PG-13,2008,"Paris Hilton, Joel David Moore, Christine Lakin","Comedy, Romance",Tom Putnam,"$27,696"
+tt0317676,      House of the Dead,8,2.3,R,2003,"Jonathan Cherry, Tyron Leitso, Clint Howard","Action, Adventure, Horror",Uwe Boll,"$10,249,719"
+tt0417056,      Pledge This!,9,2.3,R,2006,"Paris Hilton, Simon Rex, Paula Garcés",Comedy,"William Heins, Strathford Hamilton",N/A
+tt0362165,      Son of the Mask,10,2.4,PG,2005,"Jamie Kennedy, Traylor Howard, Alan Cumming","Comedy, Family, Fantasy",Lawrence Guterman,"$17,018,422"
+tt10888594,      Radhe,11,2.4,TV-MA,2021,"Salman Khan, Disha Patani, Randeep Hooda","Action, Crime, Thriller",Prabhu Deva,N/A
+tt0808240,      Turks in Space,12,2.4,Not Rated,2006,"Cüneyt Arkin, Miraç Bayramoglu, Haldun Boysan","Action, Comedy, Sci-Fi",Kartal Tibet,N/A
+tt0799949,      Epic Movie,13,2.5,PG-13,2007,"Kal Penn, Jennifer Coolidge, Fred Willard","Adventure, Comedy, Fantasy","Jason Friedberg, Aaron Seltzer","$39,739,367"
+tt0249516,      Foodfight!,14,2.5,PG,2012,"Hilary Duff, Haylie Duff, Charlie Sheen","Animation, Action, Adventure",Lawrence Kasanoff,N/A
+tt7431594,      Race 3,15,2.5,Not Rated,2018,"Anil Kapoor, Salman Khan, Bobby Deol","Action, Crime, Thriller",Remo D'Souza,"$1,690,861"
+tt0421051,      Daniel the Wizard,16,2.6,Not Rated,2004,"Daniel Küblböck, Ulli Lommel, Rudolf Waldemar Brem","Comedy, Crime, Fantasy",Ulli Lommel,N/A
+tt0339034,      From Justin to Kelly,17,2.6,PG,2003,"Kelly Clarkson, Justin Guarini, Katherine Bailess","Comedy, Musical, Romance",Robert Iscove,"$4,928,883"
+tt0096870,      Going Overboard,18,2.6,R,1989,"Adam Sandler, Billy Bob Thornton, Billy Zane",Comedy,Valerie Breiman,N/A
+tt0369226,      Alone in the Dark,19,2.6,R,2005,"Christian Slater, Tara Reid, Stephen Dorff","Action, Horror, Sci-Fi",Uwe Boll,"$5,178,569"
+tt0185183,      Battlefield Earth,20,2.6,PG-13,2000,"John Travolta, Forest Whitaker, Barry Pepper","Action, Adventure, Sci-Fi",Roger Christian,"$21,471,685"
+tt1098327,      Dragonball Evolution,21,2.6,PG,2009,"Justin Chatwin, James Marsters, Chow Yun-Fat","Action, Adventure, Fantasy",James Wong,"$9,362,785"
+tt0299930,      Gigli,22,2.7,R,2003,"Ben Affleck, Jennifer Lopez, Justin Bartha","Comedy, Crime, Romance",Martin Brest,"$6,087,542"
+tt0118589,      Glitter,23,2.8,PG-13,2001,"Mariah Carey, Eric Benét, Max Beesley","Drama, Music, Romance",Vondie Curtis-Hall,"$4,274,407"
+tt10280276,      Coolie No. 1,24,2.8,TV-14,2020,"Varun Dhawan, Sara Ali Khan, Paresh Rawal","Action, Comedy, Romance",David Dhawan,N/A
+tt1073498,      Meet the Spartans,25,2.9,PG-13,2008,"Sean Maguire, Kevin Sorbo, Carmen Electra","Comedy, Fantasy","Jason Friedberg, Aaron Seltzer","$38,233,676"
+tt7668842,      Enes Batur,26,2.9,N/A,2018,"Enes Batur, Bilal Hanci, Atakan Özyurt",Comedy,Kamil Cetin,N/A
+tt5697572,      Cats,27,2.9,PG,2019,"James Corden, Judi Dench, Jason Derulo","Comedy, Drama, Family",Tom Hooper,"$27,166,770"
+tt0466342,      Date Movie,28,2.9,PG-13,2006,"Alyson Hannigan, Adam Campbell, Fred Willard","Comedy, Romance","Aaron Seltzer, Jason Friedberg","$48,548,426"
+tt0118665,      Baby Geniuses,29,2.9,PG,1999,"Kathleen Turner, Christopher Lloyd, Kim Cattrall","Comedy, Crime, Family",Bob Clark,"$27,250,736"
+tt0089280,      Hobgoblins,30,3.0,Not Rated,1988,"Tom Bartlett, Paige Sullivan, Steven Boggs","Comedy, Horror, Sci-Fi",Rick Sloane,N/A
+tt0785077,      Who's Your Caddy?,31,3.0,PG-13,2007,"Big Boi, Jeffrey Jones, Terry Crews","Comedy, Sport",Don Michael Paul,"$5,713,425"
+tt1883367,      The Human Centipede III (Final Sequence),32,3.1,Not Rated,2015,"Dieter Laser, Laurence R. Harvey, Eric Roberts","Comedy, Horror",Tom Six,"$16,184"
+tt0093300,      Jaws: The Revenge,33,3.1,PG-13,1987,"Lorraine Gary, Lance Guest, Mario Van Peebles","Adventure, Horror, Thriller",Joseph Sargent,"$20,763,013"
+tt0383222,      BloodRayne,34,3.1,R,2005,"Kristanna Loken, Ben Kingsley, Michelle Rodriguez","Action, Fantasy, Horror",Uwe Boll,"$2,405,420"
+tt0105643,      Troll 2,35,3.2,PG-13,1990,"Michael Paul Stephenson, George Hardy, Margo Prey","Comedy, Fantasy, Horror",Claudio Fragasso,N/A
+tt6038600,      Smolensk,36,3.2,N/A,2016,"Beata Fido, Maciej Póltorak, Aldona Struzik","Drama, Thriller",Antoni Krauze,N/A
+tt1572311,      Tees Maar Khan,37,3.2,Not Rated,2010,"Akshay Kumar, Katrina Kaif, Akshaye Khanna","Comedy, Crime",Farah Khan,"$1,076,443"
+tt2467046,      Left Behind,38,3.2,PG-13,2014,"Nicolas Cage, Lea Thompson, Cassi Thomson","Action, Fantasy, Sci-Fi",Vic Armstrong,"$14,019,924"
+tt0058548,      Santa Claus Conquers the Martians,39,3.3,Not Rated,1964,"John Call, Leonard Hicks, Vincent Beck","Adventure, Comedy, Family",Nicholas Webster,N/A
+tt7255568,      Student of the Year 2,40,3.3,Not Rated,2019,"Tiger Shroff, Ananya Panday, Tara Sutaria","Action, Comedy, Drama",Punit Malhotra,"$778,566"
+tt0116756,      Kazaam,41,3.3,PG,1996,"Shaquille O'Neal, Francis Capra, Ally Walker","Comedy, Family, Fantasy",Paul Michael Glaser,"$18,937,262"
+tt2574698,      Gunday,42,3.3,Not Rated,2014,"Ranveer Singh, Arjun Kapoor, Priyanka Chopra Jonas","Action, Drama, Musical",Ali Abbas Zafar,N/A
+tt10886166,      365 Days,43,3.3,TV-MA,2020,"Anna Maria Sieklucka, Michele Morrone, Bronislaw Wroclawski","Drama, Romance","Barbara Bialowas, Tomasz Mandes",N/A
+tt0246894,      Rollerball,44,3.3,PG-13,2002,"Chris Klein, Jean Reno, LL Cool J","Action, Sci-Fi, Sport",John McTiernan,"$18,990,798"
+tt0120207,      Steel,45,3.3,PG-13,1997,"Shaquille O'Neal, Annabeth Gish, Judd Nelson","Action, Adventure, Crime",Kenneth Johnson,"$1,710,972"
+tt0810913,      Jack and Jill,46,3.3,PG,2011,"Adam Sandler, Katie Holmes, Al Pacino",Comedy,Dennis Dugan,"$74,158,157"
+tt10350922,      Laxmii,47,3.4,TV-MA,2020,"Akshay Kumar, Kiara Advani, Sharad Kelkar","Action, Comedy, Horror","Lawrence Raghavendra, Balakrishnan Thevar",N/A
+tt5690360,      Slender Man,48,3.4,PG-13,2018,"Joey King, Julia Goldani Telles, Jaz Sinclair","Horror, Mystery, Thriller",Sylvain White,"$30,569,484"
+tt0327554,      Catwoman,49,3.4,PG-13,2004,"Halle Berry, Sharon Stone, Benjamin Bratt","Action, Crime, Fantasy",Pitof,"$40,202,379"
+tt4877122,      The Emoji Movie,50,3.4,PG,2017,"T.J. Miller, James Corden, Anna Faris","Animation, Adventure, Comedy",Tony Leondis,"$86,089,513"
+tt2403029,      The Starving Games,51,3.4,PG-13,2013,"Maiara Walsh, Brant Daugherty, Cody Christian","Comedy, Sci-Fi","Jason Friedberg, Aaron Seltzer",N/A
+tt7608028,      The Open House,52,3.5,TV-MA,2018,"Dylan Minnette, Piercey Dalton, Patricia Bethune","Horror, Thriller","Matt Angel, Suzanne Coote",N/A
+tt1666186,      Vampires Suck,53,3.5,PG-13,2010,"Jenn Proske, Matt Lanter, Diedrich Bader","Comedy, Horror","Jason Friedberg, Aaron Seltzer","$36,661,504"
+tt0462244,      Daddy Day Camp,54,3.5,PG,2007,"Cuba Gooding Jr., Lochlyn Munro, Richard Gant","Comedy, Family",Fred Savage,"$13,235,267"
+tt8366590,      Baaghi 3,55,3.5,Not Rated,2020,"Tiger Shroff, Riteish Deshmukh, Shraddha Kapoor","Action, Comedy, Musical",Ahmed Khan,"$721,439"
+tt5013984,      Gully,56,3.5,R,2019,"Kelvin Harrison Jr., Jacob Latimore, Charlie Plummer","Crime, Drama",Nabil Elderkin,"$22,517"
+tt0400426,      Far Cry,57,3.5,R,2008,"Til Schweiger, Emmanuelle Vaugier, Natalia Avelon","Action, Adventure, Sci-Fi",Uwe Boll,N/A
+tt0118539,      3 Ninjas: High Noon at Mega Mountain,58,3.5,PG,1998,"Loni Anderson, Hulk Hogan, Jim Varney","Action, Adventure, Comedy",Sean McNamara,"$375,805"
+tt0804452,      Bratz,59,3.5,PG,2007,"Skyler Shaye, Janel Parrish, Logan Browning","Comedy, Family, Music",Sean McNamara,"$10,010,209"
+tt0115624,      Barb Wire,60,3.6,R,1996,"Pamela Anderson, Amir AboulEla, Adriana Alexander","Action, Sci-Fi",David Hogan,"$3,793,614"
+tt0110978,      Texas Chainsaw Massacre: The Next Generation,61,3.6,R,1994,"Renée Zellweger, Matthew McConaughey, Robert Jacks","Comedy, Horror, Thriller",Kim Henkel,"$185,898"
+tt0329028,      Dumb and Dumberer: When Harry Met Lloyd,62,3.6,PG-13,2003,"Derek Richardson, Eric Christian Olsen, Eugene Levy",Comedy,Troy Miller,"$26,276,465"
+tt0065832,      Hercules in New York,63,3.6,G,1970,"Arnold Stang, Arnold Schwarzenegger, Deborah Loomis","Adventure, Comedy, Fantasy",Arthur Allan Seidelman,N/A
+tt0295427,      The Master of Disguise,64,3.6,PG,2002,"Dana Carvey, Jennifer Esposito, Harold Gould","Adventure, Comedy, Family",Perry Andelin Blake,"$40,388,794"
+tt0795461,      Scary Movie V,65,3.6,PG-13,2013,"Simon Rex, Ashley Tisdale, Charlie Sheen",Comedy,"Malcolm D. Lee, David Zucker","$32,015,787"
+tt0295254,      Feardotcom,66,3.7,R,2002,"Stephen Dorff, Natascha McElhone, Stephen Rea","Crime, Horror, Thriller",William Malone,"$13,258,249"
+tt1411664,      Bucky Larson: Born to Be a Star,67,3.7,R,2011,"Nick Swardson, Don Johnson, Christina Ricci",Comedy,Tom Brady,"$2,529,395"
+tt9820556,      Breach,68,3.7,R,2020,"Cody Kearsley, Bruce Willis, Rachel Nichols","Action, Horror, Sci-Fi",John Suits,N/A
+tt1517489,      Spy Kids 4: All the Time in the World,69,3.7,PG,2011,"Jessica Alba, Jeremy Piven, Joel McHale","Animation, Action, Adventure",Robert Rodriguez,"$38,538,188"
+tt0103923,      Captain America,70,3.7,PG-13,1990,"Matt Salinger, Ronny Cox, Ned Beatty","Action, Adventure, Sci-Fi",Albert Pyun,N/A
+tt0110647,      The NeverEnding Story III,71,3.7,G,1994,"Jason James Richter, Melody Kay, Jack Black","Adventure, Comedy, Family",Peter MacDonald,N/A
+tt0120185,      Spice World,72,3.7,PG,1997,"Mel B, Emma Bunton, Melanie C","Comedy, Family, Music",Bob Spiers,"$29,342,592"
+tt0110857,      Police Academy: Mission to Moscow,73,3.7,PG,1994,"G.W. Bailey, George Gaynes, Michael Winslow","Comedy, Crime",Alan Metter,"$126,247"
+tt0275022,      Crossroads,74,3.7,PG-13,2002,"Britney Spears, Anson Mount, Zoe Saldana","Comedy, Drama, Romance",Tamra Davis,"$37,191,304"
+tt0368226,      The Room,75,3.7,R,2003,"Tommy Wiseau, Juliette Danielle, Greg Sestero",Drama,Tommy Wiseau,"$549,602"
+tt4667094,      Fifty Shades of Black,76,3.7,R,2016,"Marlon Wayans, Kali Hawk, Fred Willard",Comedy,Michael Tiddes,"$11,686,940"
+tt7059844,      Dabangg 3,77,3.7,Not Rated,2019,"Salman Khan, Sudeep, Sonakshi Sinha","Action, Comedy, Crime",Prabhu Deva,"$202,000"
+tt10481868,      Black Christmas,78,3.8,PG-13,2019,"Imogen Poots, Aleyse Shannon, Lily Donoghue","Horror, Mystery, Thriller",Sophia Takal,"$10,429,730"
+tt0119707,      Mortal Kombat: Annihilation,79,3.8,PG-13,1997,"Robin Shou, Talisa Soto, James Remar","Action, Adventure, Fantasy",John R. Leonetti,"$35,927,406"
+tt0372873,      Dragon Wars: D-War,80,3.8,PG-13,2007,"Jason Behr, Amanda Brooks, Robert Forster","Action, Drama, Fantasy",Hyung-rae Shim,"$10,977,721"
+tt0085750,      Jaws 3-D,81,3.8,PG,1983,"Dennis Quaid, Bess Armstrong, Simon MacCorkindale","Adventure, Horror, Thriller",Joe Alves,"$45,517,055"
+tt0095560,      Mac and Me,82,3.8,PG,1988,"Christine Ebersole, Jonathan Ward, Tina Caspary","Adventure, Family, Fantasy",Stewart Raffill,"$6,424,112"
+tt0118688,      Batman & Robin,83,3.8,PG-13,1997,"Arnold Schwarzenegger, George Clooney, Chris O'Donnell","Action, Sci-Fi",Joel Schumacher,"$107,353,792"
+tt0897361,      I Know Who Killed Me,84,3.8,R,2007,"Lindsay Lohan, Julia Ormond, Neal McDonough","Crime, Mystery, Thriller",Chris Sivertson,"$7,498,716"
+tt0424774,      The Adventures of Sharkboy and Lavagirl 3-D,85,3.8,PG,2005,"Cayden Boyd, George Lopez, Kristin Davis","Action, Adventure, Comedy",Robert Rodriguez,"$39,177,684"
+tt0450345,      The Wicker Man,86,3.8,PG-13,2006,"Nicolas Cage, Ellen Burstyn, Leelee Sobieski","Horror, Mystery, Thriller",Neil LaBute,"$23,649,127"
+tt0094074,      Superman IV: The Quest for Peace,87,3.8,PG,1987,"Christopher Reeve, Gene Hackman, Margot Kidder","Action, Adventure, Sci-Fi",Sidney J. Furie,"$15,681,020"
+tt0432291,      The Fog,88,3.8,PG-13,2005,"Tom Welling, Maggie Grace, Selma Blair","Horror, Mystery",Rupert Wainwright,"$29,550,869"
+tt0190374,      Dungeons & Dragons,89,3.8,PG-13,2000,"Justin Whalin, Jeremy Irons, Zoe McLellan","Action, Adventure, Fantasy",Courtney Solomon,"$15,391,970"
+tt1714203,      Piranha 3DD,90,3.8,R,2012,"Danielle Panabaker, Ving Rhames, David Hasselhoff","Comedy, Horror, Sci-Fi",John Gulager,"$376,512"
+tt0094118,      Teen Wolf Too,91,3.8,PG,1987,"Jason Bateman, Kim Darby, John Astin","Comedy, Fantasy",Christopher Leitch,"$7,888,703"
+tt6439558,      Recep Ivedik 5,92,3.8,N/A,2017,"Sahan Gökbakar, Orkan Varan, Deniz Ceylan",Comedy,Togan Gökbakar,N/A
+tt3138104,      The Hungover Games,93,3.9,R,2014,"Ross Nathan, Sam Pancake, Ben Begley","Adventure, Comedy, Fantasy",Josh Stolberg,N/A
+tt0158622,      The Flintstones in Viva Rock Vegas,94,3.9,PG,2000,"Mark Addy, Stephen Baldwin, Kristen Johnston","Comedy, Family, Romance",Brian Levant,"$35,268,275"
+tt0811138,      The Love Guru,95,3.9,PG-13,2008,"Mike Myers, Jessica Alba, Romany Malco","Comedy, Romance, Sport",Marco Schnabel,"$32,235,793"
+tt0891592,      Street Fighter: The Legend of Chun-Li,96,3.9,PG-13,2009,"Kristin Kreuk, Neal McDonough, Michael Clarke Duncan","Action, Crime, Fantasy",Andrzej Bartkowiak,"$8,742,261"
+tt1185266,      Stan Helsing,97,3.9,R,2009,"Steve Howey, Diora Baird, Kenan Thompson","Comedy, Fantasy, Horror",Bo Zenga,N/A
+tt0460780,      In the Name of the King: A Dungeon Siege Tale,98,3.9,PG-13,2007,"Jason Statham, Ron Perlman, Ray Liotta","Action, Adventure, Fantasy",Uwe Boll,"$4,775,656"
+tt1530509,      The Human Centipede II (Full Sequence),99,3.9,Not Rated,2011,"Laurence R. Harvey, Ashlynn Yennie, Maddi Black",Horror,Tom Six,"$141,877"
+tt1231277,      S. Darko,100,3.9,R,2009,"Daveigh Chase, Briana Evigan, James Lafferty","Drama, Mystery, Sci-Fi",Chris Fisher,N/A
